@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jpmacveigh@hotmail.fr
+	name = Jean-Pierre MAC_VEIGH
